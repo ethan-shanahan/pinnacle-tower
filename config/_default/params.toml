@@ -24,7 +24,7 @@ iconHeight = 35
 [profileMode]
 enabled = true
 subtitle = "The home of all things pinnacle and all things tower."
-imageUrl = "logo.png"
+imageUrl = "logo/logo.png"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "logo"
