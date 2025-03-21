@@ -31,7 +31,8 @@ imageHeight = 120
 imageTitle = "logo"
 buttons = [
     {name = "Suggest Something", url = "https://github.com/ethan-shanahan/pinnacle-tower/issues/new"},
-    {name = "Chronologised Archives", url = "/archives/"}
+    {name = "Chronologised Archives", url = "/archives/"},
+    {name = "Administration Tooling", url = "/admin/"}
 ]
 
 [editPost]
