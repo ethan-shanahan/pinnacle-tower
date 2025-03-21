@@ -15,3 +15,6 @@ hugo.linux
 # Backup Files
 *.markdown~
 *.md~
+
+# Obsidian
+.obsidian/
