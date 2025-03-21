@@ -1,4 +1,7 @@
 ---
-chapter: 2
+title: Grandue
+tags:
+  - location
+  - city
 ---
 This is a city in the universe of #chapter2.
