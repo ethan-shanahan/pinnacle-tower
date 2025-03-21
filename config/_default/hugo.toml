@@ -39,3 +39,5 @@ minifyOutput = true
 [markup.highlight]
 noClasses = false
 
+[services.disqus]
+shortname = "etopapo"
