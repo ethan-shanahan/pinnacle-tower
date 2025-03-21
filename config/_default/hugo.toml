@@ -40,4 +40,4 @@ minifyOutput = true
 noClasses = false
 
 [services.disqus]
-shortname = "etopapo"
+shortname = "pinnacle-tower"
