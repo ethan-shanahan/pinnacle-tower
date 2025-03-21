@@ -1,0 +1,52 @@
+env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+description = "Notes pertaining to the Pinnacle Tower campaign."
+keywords = ["D&D", "notes"]
+author = "Ethan Shanahan"
+images = ["logo.png"]
+DateFormat = "2 January 2006" # 2006-01-02
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowAllPagesInArchive = true
+# ShowRssButtonInSectionTermList = true
+# comments = false
+socialIcons = [
+    {name = "discord", url = "https://discord.com/"},
+    {name = "github", url = "https://github.com/ethan-shanahan/pinnacle-tower"}
+]
+
+[assets]
+favicon = "logo/logo-o.ico"
+
+[label]
+icon = "logo/logo-o.png"
+iconHeight = 35
+
+[profileMode]
+enabled = true
+subtitle = "The home of all things pinnacle and all things tower."
+imageUrl = "logo.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "logo"
+buttons = [
+    {name = "Sessions", url = "/sessions/"},
+    {name = "Tags", url = "/tags/"},
+    {name = "Records", url = "/records/"}
+]
+
+[editPost]
+URL = "https://github.com/ethan-shanahan/pinnacle-tower.com/blob/main/content"
+Text = "Suggest Changes" # edit text
+appendFilePath = true # to append file path to Edit link
+
+# for search
+# https://fusejs.io/api/options.html
+[fuseOpts]
+limit = 10 # refer: https://www.fusejs.io/api/methods.html#search
+keys = [ "title", "permalink", "summary", "content" ]
+findAllMatches = true
+
+# [analytics]
+# google = {SiteVerificationTag = "XYZabc"}
+# bing   = {SiteVerificationTag = "XYZabc"}
+# yandex = {SiteVerificationTag = "XYZabc"}

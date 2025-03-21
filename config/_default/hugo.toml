@@ -1,0 +1,41 @@
+baseURL = "https://pinnacle-tower.pages.dev/"
+languageCode = 'en'
+title = "Pinnacle Tower"
+theme = "PaperMod"
+pagination = {pagerSize = 5}
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+ignoreFiles = ["_templates/"]
+
+[[menu.main]]
+name = "Sessions"
+url = "/sessions/"
+weight = 1
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Records"
+url = "/records/"
+weight = 3
+
+[[menu.main]]
+name = "🔍"
+url = "/search/"
+weight = 4
+
+[outputs]
+home = ["HTML", "RSS", "JSON"] # JSON necessary for search
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[markup.highlight]
+noClasses = false
+
