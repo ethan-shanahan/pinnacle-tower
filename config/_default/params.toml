@@ -9,7 +9,7 @@ ShowReadingTime = true
 ShowAllPagesInArchive = true
 # ShowPostNavLinks = true
 # ShowRssButtonInSectionTermList = true
-# comments = false
+comments = true
 socialIcons = [
     {name = "discord", url = "https://discord.com/"},
     {name = "github", url = "https://github.com/ethan-shanahan/pinnacle-tower"}
@@ -30,9 +30,8 @@ imageWidth = 120
 imageHeight = 120
 imageTitle = "logo"
 buttons = [
-    {name = "Sessions", url = "/sessions/"},
-    {name = "Tags", url = "/tags/"},
-    {name = "Records", url = "/records/"}
+    {name = "Suggest Something", url = "https://github.com/ethan-shanahan/pinnacle-tower/issues/new"},
+    {name = "Chronologised Archives", url = "/archives/"}
 ]
 
 [editPost]
