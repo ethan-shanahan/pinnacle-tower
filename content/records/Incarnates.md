@@ -1,6 +1,6 @@
 ---
 title: Incarnates
-authors: Kam O'Cathasaigh
+author: Kam O'Cathasaigh
 ---
 
 Incarnates are rare beings that exist within the world of Pinnacle tower. The come into existence spontaneously and typically have a broad range in how their existence presents. A commonality amongst Incarnates is that they all represent a concept given form and mind. For example Sleep Incarnate has the concept of sleep, the form of a shapeshifter and a generally a timid mindset.
