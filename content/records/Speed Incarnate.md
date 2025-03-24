@@ -1,8 +1,8 @@
 ---
-title: Fate Incarnate
+title: Speed Incarnate
 tags:
   - character
   - incarnate
 aliases:
-  - Fate
+  - Speed
 ---
