@@ -10,10 +10,10 @@ ShowAllPagesInArchive = true
 ShowPostNavLinks = false
 ShowRssButtonInSectionTermList = true
 comments = true
-socialIcons = [
-    {name = "discord", url = "https://discord.com/"},
-    {name = "github", url = "https://github.com/ethan-shanahan/pinnacle-tower"}
-]
+# socialIcons = [
+#     {name = "discord", url = "https://discord.com/"},
+#     {name = "github", url = "https://github.com/ethan-shanahan/pinnacle-tower"}
+# ]
 
 [assets]
 favicon = "logo/logo-o.ico"
