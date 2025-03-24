@@ -36,7 +36,7 @@ buttons = [
 ]
 
 [editPost]
-URL = "https://github.com/ethan-shanahan/pinnacle-tower.com/blob/main/content"
+URL = "https://github.com/ethan-shanahan/pinnacle-tower/blob/main/content"
 Text = "Suggest Changes" # edit text
 appendFilePath = true # to append file path to Edit link
 
