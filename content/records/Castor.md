@@ -10,7 +10,7 @@ aliases:
   - Ethan
 ---
 
-Clockwork Automagic Soldier Trained in Order Restoration
+## Clockwork Automagic Soldier Trained in Order Restoration
 
 The history of the warforged race is one filled with mystery and hardship. From their initial creation as simple training tools did evolve the more complex and eventually sentient generations. The challenges warforged faced included exploitation, experimentation, discrimination, and prejudice. 
 
