@@ -11,23 +11,23 @@ ignoreFiles = ["_templates/"]
 
 [[menu.main]]
 name = "Sessions"
-url = "/sessions/"
-weight = 1
+url = "/categories/sessions/"
+weight = 10
 
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
-weight = 2
+weight = 20
 
 [[menu.main]]
 name = "Records"
-url = "/records/"
-weight = 3
+url = "/categories/records/"
+weight = 30
 
 [[menu.main]]
 name = "🔍"
 url = "/search/"
-weight = 4
+weight = 40
 
 [outputs]
 home = ["HTML", "RSS", "JSON"] # JSON necessary for search

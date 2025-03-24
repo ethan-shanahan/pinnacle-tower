@@ -1,3 +1,5 @@
 ---
-{}
+cascade:
+  categories:
+    - records
 ---

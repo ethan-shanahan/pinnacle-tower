@@ -1,7 +1,7 @@
 ---
 cascade:
-#   params:
-#     ShowPostNavLinks: true
-  tags:
-    - session
+  params:
+    ShowPostNavLinks: true
+  categories:
+    - sessions
 ---

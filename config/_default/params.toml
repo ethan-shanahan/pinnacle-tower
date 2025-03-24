@@ -7,8 +7,8 @@ DateFormat = "2 January 2006" # 2006-01-02
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowAllPagesInArchive = true
-# ShowPostNavLinks = true
-# ShowRssButtonInSectionTermList = true
+ShowPostNavLinks = false
+ShowRssButtonInSectionTermList = true
 comments = true
 socialIcons = [
     {name = "discord", url = "https://discord.com/"},
