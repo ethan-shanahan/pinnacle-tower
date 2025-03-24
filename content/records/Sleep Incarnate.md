@@ -7,7 +7,7 @@ tags:
 aliases:
   - Sleep
 ---
-Sleep Incarnate was the first [[Incarnate]] we encountered. It happened while we were resting after #chapter1. They planned for this meeting a long time ago, and now that our time had come, we were all whisked away into the [[Dreamscape]]. Even [[Castor]], who dreamed that night for the very first time.
+Sleep Incarnate was the first [[Incarnates|Incarnate]] we encountered. It happened while we were resting after #chapter1. They planned for this meeting a long time ago, and now that our time had come, we were all whisked away into the [[Dreamscape]]. Even [[Castor]], who dreamed that night for the very first time.
 
 They are slender with shock white hair, and wear a long, white gown. Their hands are covered with large black gauntlets, but they also wear a ring with a blue stone embedded. Their eyes are a similar solid blue colour and occasionally glow.
 
